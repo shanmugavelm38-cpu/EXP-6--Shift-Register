@@ -40,6 +40,7 @@ endmodule
 
 ```
 Testbench Program
+```
 module tb6;
     reg  clk, rst, sin;
     wire sout;
@@ -90,7 +91,7 @@ module tb6;
 endmodule
 
 
-
+```
 
 ## Operation / Truth Table
 
